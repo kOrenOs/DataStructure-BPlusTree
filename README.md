@@ -1,6 +1,6 @@
 # DataStructure-BPlusTree
 
-This project is one of schoolwork of the course Data structure. The main point was to implement data structure- B+ Tree, validate it and demonstrate implemented code. Fake data are:
+This project was one of the schoolworks for the course Data structure. The main point was to implement data structure- B+ Tree, validate it and demonstrate implemented code. Fake data are:
 •	Cadaster
 •	Property
 •	Borders
